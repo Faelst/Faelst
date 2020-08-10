@@ -8,6 +8,7 @@ A Little about me:
 - 🔭 Working in Vivas Telecom, Dev and Analist of Programaing.
 - 📕 Studying Computer engineer.
 - ❤ JavaScript (NodeJS, React, React Netive, Deno, Angular, Express, Mongoose).
+- 💾 DataBase Skills (Mysql, Postgres, MongoDB)
 - 🏀 Love Basketball.
 - 💪 Body-builder
 - 📫 Email: fael_st@hotmail.com
