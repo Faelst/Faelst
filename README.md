@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Faelst/Faelst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello Dev's, I'm Rafael Silverio.
+## I m 22 years old , Living in Jacarei/sp , Brazil.
 
-Here are some ideas to get you started:
+A Little about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Working in Vivas Telecom, Dev and Analist of Programaing.
+- 📕 Studying Computer engineer.
+- ❤ JavaScript (NodeJS, React, React Netive, Deno, Angular, Express, Mongoose).
+- 🏀 Love Basketball.
+- 💪 Body-builder
+- 📫 Email: fael_st@hotmail.com
+- 📱  phone: +55 12 981708474
