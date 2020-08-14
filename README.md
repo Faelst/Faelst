@@ -1,6 +1,3 @@
-<div style="mt-5">
-    <img align="right" width="300" height="300" src="https://miro.medium.com/max/1000/1*A3EN6RoI9LIVpL7EhIGHzQ.gif">
-</div>
 
 # Hello Dev's, I'm Rafael Silverio.
 ## 👦🏽 I m 22 years old , Living in Jacarei/sp , Brazil.
