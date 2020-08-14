@@ -15,9 +15,8 @@ A Little about me:
 
 <hr>
 
-<div style="margin-top: 1rem">
  ## 🦉 Linguagens já utilizadas**
-</div>
+
 <br />
 <div align="start">
     <img height="35"
@@ -39,8 +38,9 @@ A Little about me:
     <img height="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png">&nbsp;&nbsp;
 </div>
 
--------
+<hr>
 <br>
+
 ## 🕵 Estatísticas do meu perfil
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
