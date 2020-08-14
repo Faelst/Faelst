@@ -16,7 +16,7 @@ A Little about me:
 <hr>
 
 <div style="margin-top: 1rem">
- ##🦉 Linguagens já utilizadas**
+ ## 🦉 Linguagens já utilizadas**
 </div>
 <br />
 <div align="start">
@@ -41,7 +41,7 @@ A Little about me:
 
 -------
 <br>
-##🕵 Estatísticas do meu perfil
+## 🕵 Estatísticas do meu perfil
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
     <div style="">
