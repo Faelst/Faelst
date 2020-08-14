@@ -14,9 +14,6 @@ A Little about me:
 - 💪 Body-builder
 - 📫 Email: fael_st@hotmail.com
 - 📱 phone: +55 12 981708474
-<br>
-<br>
-<br>
 
 ------
 
