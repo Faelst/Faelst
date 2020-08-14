@@ -15,7 +15,10 @@ A Little about me:
 
 
 <br>
+
+
  ## 🦉 Linguagens já utilizadas**
+
 <div align="start">
     <img height="35"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
@@ -37,7 +40,11 @@ A Little about me:
 </div>
 
 <br>
+
+
 ## 🕵 Estatísticas do meu perfil
+
+
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
     <div style="">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=Faelst&show_icons=true&theme=dark"
