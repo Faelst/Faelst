@@ -17,7 +17,9 @@ A Little about me:
 <br>
 <br>
 <br>
+
 ------
+
 <div style="margin-top: 1rem">
     **🦉 Linguagens já utilizadas**
 </div>
