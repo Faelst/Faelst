@@ -34,7 +34,6 @@ A Little about me:
     <img height="35" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">&nbsp;&nbsp;
     <img height="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png">&nbsp;&nbsp;
 </div>
-<br>
 
 
 ## 🕵 Estatísticas do meu perfil
