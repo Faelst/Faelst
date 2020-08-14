@@ -42,8 +42,8 @@ A Little about me:
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=Faelst&show_icons=true&theme=dark"
             width="400px" height="200px" />
     </div>
-    <div style="margin-top: 23px; height: 155px;">
-        <img align="right"
+    <div class="ml-1" style="margin-top: 23px; height: 155px;">
+        <img align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faelst&layout=compact&theme=dark"
             width="330px" height="200px" />
     </div>
