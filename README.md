@@ -45,6 +45,6 @@ A Little about me:
     <div class="ml-1" style="margin-top: 23px; height: 155px;">
         <img align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faelst&layout=compact&theme=dark"
-            width="330px" height="200px" />
+            width="320px" height="200px" />
     </div>
 </div>
