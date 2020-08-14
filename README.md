@@ -13,7 +13,7 @@ A Little about me:
 - 📫 Email: fael_st@hotmail.com
 - 📱 phone: +55 12 981708474
 
-------
+<hr>
 
 <div style="margin-top: 1rem">
     **🦉 Linguagens já utilizadas**
