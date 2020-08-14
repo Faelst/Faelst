@@ -14,11 +14,7 @@ A Little about me:
 - 📱 phone: +55 12 981708474
 
 
-<br>
-
-
- ## 🦉 Linguagens já utilizadas**
-
+## 🦉 Linguagens utilizadas
 <div align="start">
     <img height="35"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
@@ -38,13 +34,10 @@ A Little about me:
     <img height="35" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">&nbsp;&nbsp;
     <img height="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png">&nbsp;&nbsp;
 </div>
-
 <br>
 
 
 ## 🕵 Estatísticas do meu perfil
-
-
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
     <div style="">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=Faelst&show_icons=true&theme=dark"
