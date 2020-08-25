@@ -36,7 +36,7 @@ A Little about me:
 </div>
 
 
-## 🕵 Estatísticas do meu perfil
+## 🕵 Estatísticas do perfil
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
     <div style="">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=Faelst&show_icons=true&theme=dark"
