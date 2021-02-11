@@ -4,7 +4,7 @@
 
 A Little about me:
 
-- 🔭 Working in Vivas Telecom, Dev and Analist of Programaing.
+- 🔭 Working with Dev and Analist of Programaing.
 - 📕 Studying Computer engineer.
 - ❤ JavaScript (NodeJS, React, React Netive, Deno, Angular, Express, Mongoose).
 - 💾 DataBase Skills (UML, DDL, DML, DQL, DTL)
