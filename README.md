@@ -11,10 +11,6 @@ About me:
 
 ## 🦉 Technologies Used
 <div align="start">
-    <img height="35"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
-    <img height="35"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;&nbsp;
     <img height="35" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png">&nbsp;&nbsp;
     <img height="35"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;
@@ -28,7 +24,6 @@ About me:
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png">&nbsp;&nbsp;
     <img height="35" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">&nbsp;&nbsp;
     <img height="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png">&nbsp;&nbsp;
-    <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Kotlin-logo.png">&nbsp;&nbsp;
 </div>
 
 ## 🕵 Profile statistics
