@@ -12,7 +12,6 @@ About me:
 ## 🦉 Technologies Used
 
 <div align="start">
-    <img height="35" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-iobie&psig=AOvVaw1iZVaD3t-t49ymgUkN06IH&ust=1666748478150000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLie6Img-voCFQAAAAAdAAAAABAI](https://w7.pngwing.com/pngs/347/272/png-transparent-rabbitmq-advanced-message-queuing-protocol-message-broker-message-queue-computer-servers-advanced-message-queuing-protocol-angle-text-rectangle-thumbnail.png">&nbsp;&nbsp;
     <img height="35"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;
     <img height="35"
