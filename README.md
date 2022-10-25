@@ -5,8 +5,6 @@ About me:
 - 📕 Studying Computer engineer.
 - ❤ JavaScript (NodeJS, React, React Netive, Deno, Angular, Express, Mongoose).
 - 💾 DataBase Skills (UML, DDL, DML, DQL, DTL)
-- 🏀 Love Basketball.
-- 💪 Body-builder
 - 📫 Email: fael_st@hotmail.com
 - 📱 phone: +55 12 981708474
 
