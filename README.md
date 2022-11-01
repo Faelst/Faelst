@@ -28,10 +28,6 @@ About me:
 
 ## 🕵 Profile statistics
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-    <div style="">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Faelst&show_icons=true&theme=dark"
-            width="400px" height="200px" />
-    </div>
     <div class="ml-1" style="margin-top: 23px; height: 155px;">
         <img align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faelst&layout=compact&theme=dark"
