@@ -2,12 +2,10 @@
 About me:
 
 - 🔭 Working with Dev and Analist of Programaing.
-- 📕 Studying Computer engineer.
 - ❤ JavaScript (NodeJS, React, React Netive, Deno, Angular, Express, Mongoose).
+- 🖥 Microservices Architecture (RabbitMQ, Kafka, GRPC)
 - 💾 DataBase Skills (UML, DDL, DML, DQL, DTL)
 - 📫 Email: fael_st@hotmail.com
-- 📱 phone: +55 12 981708474
-
 
 ## 🦉 Technologies Used
 
